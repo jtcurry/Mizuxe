@@ -5,6 +5,10 @@ body {
   margin-top: 105px;
 }
 
+section {
+  padding-top: 105px;
+}
+
 .navbar {
   box-shadow: 2px 2px 5px $primary;
   opacity: 0.9;
@@ -36,6 +40,7 @@ body {
   margin: auto;
   border-bottom: 1px #ddd solid;
 }
+
 
 #authors {
   img{
